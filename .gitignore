@@ -1,6 +1,12 @@
 # Compiled class file
 *.class
 
+#data
+*.xml
+
+#ide
+*.iml
+
 # Log file
 *.log
 
